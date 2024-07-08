@@ -19,6 +19,7 @@ if (app.Environment.IsDevelopment())
 // to check commits
 
 // app.UseAuthentication();
+// commiting directly from git hub itself.
 
 app.UseHttpsRedirection();
 
