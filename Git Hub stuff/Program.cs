@@ -18,6 +18,8 @@ if (app.Environment.IsDevelopment())
 
 // to check commits
 
+// app.UseAuthentication();
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
