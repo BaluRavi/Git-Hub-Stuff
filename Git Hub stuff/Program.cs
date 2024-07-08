@@ -21,6 +21,14 @@ if (app.Environment.IsDevelopment())
 // app.UseAuthentication();
 // commiting directly from git hub itself.
 
+//commiting directly from git hub itself.
+//commiting directly from git hub itself.
+//commiting directly from git hub itself.
+//commiting directly from git hub itself.
+//commiting directly from git hub itself.
+//commiting directly from git hub itself.
+//commiting directly from git hub itself.
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
