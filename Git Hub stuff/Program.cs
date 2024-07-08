@@ -16,6 +16,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// to check commits
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
